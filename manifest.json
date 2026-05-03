@@ -1,0 +1,15 @@
+{
+  "name": "Calculadora Xbox",
+  "short_name": "CalcXbox",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
